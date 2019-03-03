@@ -1,0 +1,39 @@
+BUILD_CONFIGURATIONS:
+  Debug: :debug
+  Release: :release
+CACHE_KEYS:
+  Nimble:
+    BUILD_SETTINGS_CHECKSUM:
+      Nimble: 99fdac3bf9f71e7322a9a37c52f79039
+    CHECKSUM: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
+    SPECS:
+      - Nimble (7.0.3)
+  PodNews:
+    BUILD_SETTINGS_CHECKSUM:
+      PodNews: 5bb490869f40f3fb0af1cbb5e2bab2b1
+      PodNews/Example: a4569d5770aef9f851025502f6588104
+    CHECKSUM: 8c188ada9c596206ed13dbcb2872fee020f59e91
+    FILES:
+      - "/Users/shashi/workspace/PodNews/PodNews/Example/PodNews/AppDelegate.swift"
+      - "/Users/shashi/workspace/PodNews/PodNews/Example/PodNews/ViewController.swift"
+      - "/Users/shashi/workspace/PodNews/PodNews/LICENSE"
+      - "/Users/shashi/workspace/PodNews/PodNews/PodNews/Classes/ReplaceMe.swift"
+      - "/Users/shashi/workspace/PodNews/PodNews/README.md"
+    SPECS:
+      - PodNews (0.1.0)
+      - PodNews/Example (0.1.0)
+  Pods-PodNews_Example:
+    BUILD_SETTINGS_CHECKSUM:
+      Debug: 1aaef0957aeb71da2c6b255e55b5fa38
+      Release: 1aaef0957aeb71da2c6b255e55b5fa38
+  Pods-PodNews_Tests:
+    BUILD_SETTINGS_CHECKSUM:
+      Debug: 76404c03ebd874e42afc24ab70c081ea
+      Release: 76404c03ebd874e42afc24ab70c081ea
+  Quick:
+    BUILD_SETTINGS_CHECKSUM:
+      Quick: d1ac2d48914e445399360c4174b5b164
+    CHECKSUM: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+    SPECS:
+      - Quick (1.2.0)
+OBJECT_VERSION: 46

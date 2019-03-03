@@ -1,0 +1,49 @@
+{
+  "name": "PodNews",
+  "version": "0.1.0",
+  "summary": "A short description of PodNews.",
+  "swift_versions": [
+    "3.2",
+    "4.0",
+    "4.2"
+  ],
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Shashikant86/PodNews",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Shashikant86": "shashikant.jagtap@icloud.com"
+  },
+  "source": {
+    "git": "https://github.com/Shashikant86/PodNews.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodNews/Classes/**/*",
+  "testspecs": [
+    {
+      "name": "Tests",
+      "test_type": "unit",
+      "source_files": "Example/Tests/**/*.swift",
+      "scheme": {
+        "launch_arguments": [
+          "Quick",
+          "XCTest"
+        ],
+        "environment_variables": {
+          "XCTest": "false"
+        }
+      }
+    }
+  ],
+  "appspecs": [
+    {
+      "name": "Example",
+      "source_files": "Example/PodNews/*.swift"
+    }
+  ]
+}

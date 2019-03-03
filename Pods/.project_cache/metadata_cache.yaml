@@ -1,0 +1,20 @@
+Nimble:
+  LABEL: Nimble
+  PROJECT_PATH: "/Users/shashi/workspace/PodNews/PodNews/Example/Pods/Nimble.xcodeproj"
+  UUID: 7BE48F194BFF9CA61B5D3D3642E1E19C
+PodNews:
+  LABEL: PodNews
+  PROJECT_PATH: "/Users/shashi/workspace/PodNews/PodNews/Example/Pods/PodNews.xcodeproj"
+  UUID: 550B4B9778CFC47E1A51FF33510550D2
+Pods-PodNews_Example:
+  LABEL: Pods-PodNews_Example
+  PROJECT_PATH: "/Users/shashi/workspace/PodNews/PodNews/Example/Pods/Pods.xcodeproj"
+  UUID: B571F8E6A8B98EE7B076EBA22FAAF3DA
+Pods-PodNews_Tests:
+  LABEL: Pods-PodNews_Tests
+  PROJECT_PATH: "/Users/shashi/workspace/PodNews/PodNews/Example/Pods/Pods.xcodeproj"
+  UUID: 0840BB03F3FE37516334B6991B57BF71
+Quick:
+  LABEL: Quick
+  PROJECT_PATH: "/Users/shashi/workspace/PodNews/PodNews/Example/Pods/Quick.xcodeproj"
+  UUID: 24C9F58642BA3A311BF4777F8B8E66E1

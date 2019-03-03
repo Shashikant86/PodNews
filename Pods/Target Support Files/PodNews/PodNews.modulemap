@@ -1,0 +1,6 @@
+framework module PodNews {
+  umbrella header "PodNews-umbrella.h"
+
+  export *
+  module * { export * }
+}
